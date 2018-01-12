@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "295285280677",
+    "firebase_url": "https://oneblood1-cf976.firebaseio.com",
+    "project_id": "oneblood1-cf976",
+    "storage_bucket": "oneblood1-cf976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295285280677:android:a47ef7b2d291d13b",
+        "android_client_info": {
+          "package_name": "com.example.amalv.oneblood1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295285280677-koo8tsr238b51402gm0v0psvuuec5ugn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ihv5yONEB_eA8ytL_syKYDXpAMOMZc8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

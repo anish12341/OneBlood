@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">OneBlood</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="locate_blood_bank">Locate Blood Bank</string>
+
+
+    <string name="blood_request">Request Blood</string>
+    <string name="enter_blood_group">Blood Group</string>
+    <string name="enter_contact_no">Contact No.</string>
+    <string name="enter_city">City</string>
+    <string name="generate_request">Generate Request</string>
+
+    <string name="appointment">Take an Appointment</string>
+    <string name="find_location">Location</string>
+    <string name="book">Book Timeslot</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel Appointment</string>
+    <string name="title_activity_locate">Map</string>
+    <string name="fetch_address">Fetch address</string>
+
+    <string name="address_found">Address found</string>
+
+    <string name="no_address_found">Sorry, no address found</string>
+    <string name="no_location_data_provided">No location data provided</string>
+    <string name="service_not_available">Sorry, the service is not available</string>
+    <string name="invalid_lat_long_used">Invalid latitude or longitude used</string>
+
+
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+
+    <string name="quickstart_message">Click the SUBSCRIBE TO NEWS button below to subscribe to the
+        news topic. Messages sent to the news topic will be received. The LOG TOKEN button logs the
+        InstanceID token to logcat.</string>
+    <string name="subscribe_to_news">Subscribe To News</string>
+    <string name="log_token">Log Token</string>
+
+    <string name="msg_subscribed">Subscribed to news topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!--
+        This is the name that users will see when interacting with this channel.
+        It should describe the category of notifications that will be sent through this channel
+     -->
+    <string name="default_notification_channel_name" translatable="true">News</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_locate_camp">Map</string>
+    <string-array name="blood_types">
+        <item>O+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+</resources>

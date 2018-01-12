@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Temp\OneBlood1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3f00a408ea53f15584ca6cd12e70eabee34b2add">
+        <dex dex="C:\Temp\OneBlood1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bd654a7598653a12b036af291a1c3d0e2cfd485c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Temp\OneBlood1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Temp\OneBlood1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3cf275b3e5016482db98cd4c4be22f57b43fbc13\classes.dex" />
+    </item>
+
+</items>

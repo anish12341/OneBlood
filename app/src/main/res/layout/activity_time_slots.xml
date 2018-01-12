@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Available TimeSlots"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:background="@android:color/holo_red_dark"
+        android:fontFamily="sans-serif-condensed"
+        />
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/newlist"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:drawSelectorOnTop="true"
+    android:layout_height="305dp"
+    tools:context="com.example.amalv.oneblood1.TimeSlotsActivity"
+    android:layout_weight="1.17" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_confirm"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:layout_marginTop="24dp"
+        android:padding="12dp"
+        android:text="Confirm" />
+</LinearLayout>

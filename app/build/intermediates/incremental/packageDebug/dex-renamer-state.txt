@@ -1,0 +1,7 @@
+#Sun Jan 07 19:11:51 IST 2018
+base.0=C\:\\Temp\\OneBlood1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bd654a7598653a12b036af291a1c3d0e2cfd485c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Temp\\OneBlood1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3cf275b3e5016482db98cd4c4be22f57b43fbc13\\classes.dex
+base.1=C\:\\Temp\\OneBlood1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3cf275b3e5016482db98cd4c4be22f57b43fbc13
+file.0=C\:\\Temp\\OneBlood1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bd654a7598653a12b036af291a1c3d0e2cfd485c\\classes.dex

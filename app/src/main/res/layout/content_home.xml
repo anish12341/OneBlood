@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="fill_parent"
+    android:fitsSystemWindows="true"
+    >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="56dp"
+        >
+
+        <TextView
+            android:id="@+id/blood_bank_locator"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:background="#C62828"
+            android:fontFamily="sans-serif-condensed"
+            android:textSize="20dp"
+            android:textColor="@android:color/white"
+            android:text="@string/locate_blood_bank"
+            tools:layout_editor_absoluteY="0dp"
+            app:layout_constraintLeft_toLeftOf="parent"
+             />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"/>
+        <TextView
+            android:id="@+id/blood_request"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:background="#C62828"
+            android:fontFamily="sans-serif-condensed"
+            android:textSize="20dp"
+            android:textColor="@android:color/white"
+            android:text="@string/blood_request"
+            tools:layout_editor_absoluteY="78dp"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"/>
+        <TextView
+            android:id="@+id/appointment"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:background="#C62828"
+            android:fontFamily="sans-serif-condensed"
+            android:textSize="20dp"
+            android:textColor="@android:color/white"
+            android:text="@string/appointment"
+            tools:layout_editor_absoluteY="78dp"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent" />
+
+    </LinearLayout>
+</ScrollView>
